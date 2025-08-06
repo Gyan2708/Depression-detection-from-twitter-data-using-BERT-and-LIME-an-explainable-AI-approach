@@ -69,7 +69,7 @@ datasets</code></pre>
     <h2>🚀 Usage</h2>
     <ol>
       <li>Clone the repo:<br>
-        <pre><code>https://github.com/Vikash-hp/Depression-Detection-From-Twitter-Data-Using-BERT-and-LIME-An-Explainable-AI-Approach.git</code></pre>
+        <pre><code>https://github.com/Gyan2708/Depression-detection-from-twitter-data-using-BERT-and-LIME-an-explainable-AI-approach.git</code></pre>
       </li>
       <li>Install dependencies:<br>
         <pre><code>pip install -r requirements.txt</code></pre>
