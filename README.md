@@ -153,7 +153,7 @@ datasets</code></pre>
 
   <div class="section">
     <h2>📬 Contact</h2>
-    <p>For questions, open an issue or contact <a href="mailto:vikash2206133@gmail.com">vikash2206133@gmail.com</a>.</p>
+    <p>For questions, open an issue or contact <a href="mailto:gyannk87@gmail.com">gyannk87@gmail.com</a>.</p>
   </div>
 
   <hr/>
