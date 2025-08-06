@@ -136,7 +136,7 @@ datasets</code></pre>
     <h2>👨‍💻 Contributed By</h2>
     <ul>
       <li>Shivani Saroj, CSE, NIT Patna</li>
-      <li>Gyan Ranjan Nayak, CSE, NIT Patna</li>
+      <li>Vikash Kumar, CSE, NIT Patna</li>
     </ul>
   </div>
 
